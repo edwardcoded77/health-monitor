@@ -6,7 +6,6 @@ Health Monitor is a simple and user-friendly web application designed to help in
 
 
 ## Wireframe
-![alt text](health.png)
 <img width="521" height="648" alt="health" src="https://github.com/user-attachments/assets/8a211dfb-6708-4b55-aac9-7ef4f062259d" />
 
 
