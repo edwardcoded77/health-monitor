@@ -1,16 +1,23 @@
-# React + Vite
+# Health Monitor 
+Take control of your daily health readings, one record at a time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Health Monitor is a simple and user-friendly web application designed to help individuals record, track, and manage their daily health measurements. It provides a convenient way to store blood pressure and blood sugar readings, review previous records, and monitor changes over time.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## Wireframe
+![alt text](health.png)
+<img width="521" height="648" alt="health" src="https://github.com/user-attachments/assets/8a211dfb-6708-4b55-aac9-7ef4f062259d" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the Oxlint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Target user
+Individuals who want a simple and convenient way to monitor their daily health measurements and maintain a personal record of their readings.
+
+
+## Features to include
+1. Record Readings – Enter and save daily blood pressure and blood sugar measurements.
+2. View Reading History – Access previously saved health records.
+3. Update and Delete Readings – Edit existing records or remove readings when necessary.
+4. Search Readings – Find specific health records by measurement type or value.
+5. Track Health Trends – Filter readings by date range to review changes over time.
