@@ -1,16 +1,16 @@
-# React + Vite
+# Health Monitor 
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple and user-friendly application that allows users to record, track, and manage their daily health readings. Users can enter health measurements and monitor changes over time.
 
-Currently, two official plugins are available:
+## Wireframe
+![wireframe](./health.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## Target user
+Individuals who want a simple and convenient way to record, monitor, and keep track of their daily health measurements.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Features to include
+1. Record and save daily health readings, including systolic and diastolic blood pressure.
+2. View previously saved health readings.
+3. Track changes in health measurements over time.
